@@ -1,0 +1,93 @@
+@media screen and (min-width: 0px) and (max-width: 991px){
+    .mobile-app-banner-content h1{
+        font-size: 35px;
+    }
+    .mobile-app-banner-content p{
+        font-size: 18px;
+        line-height: 25px;
+        margin: 5px 0px;
+    }
+    .mockup{
+        margin-bottom: 100px;
+    }
+    .service-tab .tab-bg{
+        background-color: #ddd;
+        padding:30px 30px;
+    }
+    .service-tab h2{
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    .service-tab h3{
+        font-size: 20px;
+    }
+    .service-tab p{
+        line-height: 16px;
+        margin-bottom: 18px;
+    }
+    .port-data h4{
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width: 480px){
+ .social{
+     display: none;
+ }
+ .overlay-image img{
+	padding: 0px;
+}
+.left{
+	top:20px;
+	left:150px;
+}
+}
+@media screen and (min-width: 0px) and (max-width: 320px){
+    .mobile-app-banner-content h1{
+        font-size: 26px;
+        font-weight: 400;
+    }
+    .mobile-app-banner-content p{
+        font-size: 16px;
+        line-height: 30px;
+        margin:10px 0px;
+    }
+
+    .buttons .btn{
+        padding: 10px 20px;
+        margin-bottom: 10px;
+    }
+    .btn-pink, .btn-blue{
+        background-color: #fb527a;
+        color: white;
+        font-weight: 600 !important;
+        margin-right: 10px;
+        font-size: 14px;
+    }
+    .mobile-app-banner-content{
+        color: white;
+        margin-top: 50px;
+    }
+    .ptb{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .video{
+        display: none;
+    }
+    .manager-area h5{
+        font-size:25px;
+        font-weight: 400;
+    }
+    .manager-area .word{
+        font-size: 16px;
+        color:#fb527a;
+    }
+    #features-2{
+        display: none;
+    }
+    .port-btns li {
+        font-size: 15px;
+        padding:0 2px;
+      }
+}
